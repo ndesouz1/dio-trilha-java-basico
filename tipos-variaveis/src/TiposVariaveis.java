@@ -1,6 +1,18 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        double salarioMario = 2500;
+
+        short numeroCurto = 1;
+        int numeroNormal = numeroCurto;
+        short numeroCurto2 = (short) numeroNormal; //casting
+
+        int numero = 5;
+        numero = 120;
+
+        System.out.println(numero);
+
+        final double VALOR_DE_PI = 3.14; //assim a variavel nao pode ser alterada
+
     }
 }
 
@@ -10,8 +22,8 @@ public class TiposVariaveis {
 // public class MinhaClasse{
 //     public static void main (String [] args){
         
-//         String primeiroNome = "Nayara";
-//         String segundoNome = "de Souza";
+//         String primeiroNome = "Ana";
+//         String segundoNome = "de Souza Machado";
 
 //         String nomeCompleto = nomeCompleto (primeiroNome, segundoNome);
     
