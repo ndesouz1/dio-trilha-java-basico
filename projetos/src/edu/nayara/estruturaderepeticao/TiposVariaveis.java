@@ -1,4 +1,4 @@
-package edu.nayara.segundasemana;
+package edu.nayara.estruturaderepeticao;
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         // double salarioMario = 2500;

@@ -1,4 +1,4 @@
-package edu.nayara.segundasemana;
+package edu.nayara.estruturaderepeticao;
 
 public class Operadores{ 
 public static void main (String [] args) {

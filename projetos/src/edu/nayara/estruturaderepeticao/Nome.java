@@ -1,4 +1,4 @@
-package edu.nayara.segundasemana;
+package edu.nayara.estruturaderepeticao;
 
 import java.util.Scanner;
 
