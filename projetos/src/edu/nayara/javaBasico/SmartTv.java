@@ -1,4 +1,4 @@
-package edu.nayara.primeirasemana;
+package edu.nayara.javaBasico;
 
 public class SmartTv {
     boolean ligada = false;
@@ -9,15 +9,12 @@ public class SmartTv {
         canal = novoCanal;
     }
 
-    
     public void aumentarCanal(){
         canal--;
-        System.out.println("Aumentando volume para: " + volume);
     }
 
     public void diminuirCanal(){
         canal++;
-        System.out.println("Aumentando volume para: " + volume);
     }
 
     public void aumentarVolume(){

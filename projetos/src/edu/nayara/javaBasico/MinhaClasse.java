@@ -1,4 +1,4 @@
-package edu.nayara.primeirasemana;
+package edu.nayara.javaBasico;
 
 public class MinhaClasse{
     public static void main (String [] args){
